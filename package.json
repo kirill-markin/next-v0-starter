@@ -1,7 +1,8 @@
 {
-  "name": "vercel",
+  "name": "next-v0-starter",
   "version": "0.1.0",
   "private": true,
+  "description": "Next.js starter template with v0 integration for database visualization",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
